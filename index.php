@@ -1,5 +1,5 @@
 <?php
 
-echo "hello world"
+echo "hello from the other side"
 
 ?>
